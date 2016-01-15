@@ -84,7 +84,7 @@ public class MyActivity extends ActionBarActivity
 
             ClickMeButton.setBackgroundColor(Color.rgb(redColor, greenColor, blueColor));
         }
-
+//use buttons
     private void setupListeners()
     {
         ClickMeButton.setOnClickListener(new View.OnClickListener()
